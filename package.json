@@ -5,6 +5,7 @@
 	"devDependencies": {
 		"cypress": "^12.9.0",
 		"cypress-fill-command": "^1.0.2",
+		"cypress-plugin-tab": "^1.0.5",
 		"typescript": "^5.0.4"
 	}
 }
